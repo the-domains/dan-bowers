@@ -1,0 +1,28 @@
+name: Dan Bowers
+favicon: null
+layout_spectrum: 0.1833466982934624
+typography_spectrum: 0.5968980088364333
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.03682669415138662
+  lightness: 0.01905677979812026
+  saturation: 0.35486877732910216
+  rhythmicContrast: 0.1021651173941791
+purpose: []
